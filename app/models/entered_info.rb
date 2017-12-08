@@ -1,0 +1,2 @@
+class EnteredInfo < ApplicationRecord
+end
